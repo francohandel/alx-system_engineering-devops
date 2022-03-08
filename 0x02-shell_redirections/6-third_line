@@ -1,0 +1,2 @@
+#!/bin/bash
+head -3 0-iacta | tail +3
